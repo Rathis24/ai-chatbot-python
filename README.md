@@ -1,8 +1,11 @@
 # AI-Powered Chatbot for Real-Time Query Resolution
 
+
 ## 📌 Project Overview
 
+
 This is a Python-based AI chatbot built using Flask, designed to answer user queries in real time. The chatbot uses basic NLP techniques to understand and respond to queries, with a user-friendly web interface.
+
 
 ---
 
@@ -39,11 +42,11 @@ This is a Python-based AI chatbot built using Flask, designed to answer user que
 ## 🔧 How to Run
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/Rathis24/ai-chatbot-python.git
 
 
 2. Navigate into the project folder:
-cd YOUR-REPO-NAME
+cd ai-chatbot-python
 
 
 3. Install Flask:
@@ -63,5 +66,5 @@ http://127.0.0.1:5000/
 
 For any queries or collaborations, feel free to reach out.
 
-- GitHub: [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- Email: your.email@example.com
+- GitHub: https://github.com/Rathis24
+- Email: meenawfh12@gmail.com
